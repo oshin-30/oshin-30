@@ -19,7 +19,7 @@
 
 🔗 Live Demo: http://blogapp-env.eba-p5wa2rcm.eu-north-1.elasticbeanstalk.com/
 
-🔗 Repository: <repo-link>
+🔗 Repository: https://github.com/oshin-30/blog-application-springboot
 
 ---
 
