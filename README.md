@@ -56,7 +56,9 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/oshin-rathore/" target="_blank" rel="noopener noreferrer">
+  <picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
+  </picture>
 </a>
 &nbsp;
 <a href="mailto:oshinrathore.28@gmail.com" target="_blank" rel="noopener noreferrer">
