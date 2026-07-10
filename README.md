@@ -4,7 +4,7 @@
 
 <p>Backend Developer • Java • Spring Boot • AWS
   
-  Turning coffee into APIs since 2026.</p>
+  Powered by coffee. Built with APIs.</p>
 
 </div>
 
