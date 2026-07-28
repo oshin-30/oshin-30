@@ -1,80 +1,80 @@
 <div align="center">
 
-#  Hi 👋, I'm Oshin
+# Hi 👋, I'm Oshin
 
-<p>Backend Developer • Java • Spring Boot • AWS
-  
-  Powered by coffee. Built with APIs.</p>
+### Backend Developer | Java | Spring Boot | AWS
+
+*Powered by coffee. Built with APIs.*
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Project
 
 ### Blog Application
-- Spring Boot, Spring Security, JWT, MySQL, AWS
-- Role-based authentication and authorization
-- RESTful APIs for posts, comments, categories, and users
 
-🔗 Live Demo: http://blogapp-env.eba-p5wa2rcm.eu-north-1.elasticbeanstalk.com/
+A RESTful blogging platform built with Spring Boot featuring secure authentication, role-based authorization, and CRUD operations.
 
-🔗 Repository: https://github.com/oshin-30/blog-application-springboot
+**Tech Stack**
+
+* Java
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* Hibernate / JPA
+* MySQL
+* AWS Elastic Beanstalk
+
+**Features**
+
+* User authentication and authorization
+* CRUD operations for posts, comments, categories, and users
+* RESTful APIs
+* DTO-based architecture
+* Exception handling and validation
+
+🔗 **Live Demo:**
+http://blogapp-env.eba-p5wa2rcm.eu-north-1.elasticbeanstalk.com/
+
+🔗 **Repository:**
+https://github.com/oshin-30/blog-application-springboot
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40" title="Hibernate" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" title="AWS" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" title="Postman" />
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/oshin-rathore/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" title="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:oshinrathore.28@gmail.com" target="_blank" rel="noopener noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ffffff" />
-    <img src="https://cdn.simpleicons.org/gmail/000000" alt="Email" width="36" height="36" title="Email" />
-  </picture>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/oshin-rathore/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:oshinrathore.28@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="38" height="38" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Streak
+## 📊 GitHub Stats
 
-<div align="center">
-
-[![CommitPulse Contribution Graph for oshin-30](https://commitpulse.vercel.app/api/streak?user=oshin-30)](https://commitpulse.vercel.app/dashboard/oshin-30)
-
-</div>
-
+<p align="center">
+  <img src="https://commitpulse.vercel.app/api/streak?user=oshin-30" alt="GitHub Streak"/>
+</p>
