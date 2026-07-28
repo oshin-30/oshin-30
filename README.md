@@ -4,7 +4,7 @@
 
 ### Backend Developer | Java | Spring Boot | AWS
 
-*Powered by coffee. Built with Alove.*
+*Powered by coffee. Built with APIs.*
 
 </div>
 
