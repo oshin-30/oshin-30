@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Oshin
 
-### Backend Developer | Java | Spring Boot | AWS
+### Full Stack Developer | Java | Spring Boot | React | AWS
 
 *Powered by coffee. Built with APIs.*
 
@@ -11,6 +11,38 @@
 ---
 
 ## 🚀 Featured Project
+
+### ScamNet — Network-Level Fraud Detection
+
+A fraud detection platform for online marketplaces and job postings that identifies suspicious activity by analyzing relationships between listings.
+
+**Tech Stack**
+
+Java
+Spring Boot
+Spring Data JPA
+MySQL
+React
+Vite
+
+**Features**
+
+Marketplace and job listings
+Automatic fraud risk scoring
+Perceptual image hashing (dHash)
+Contact reuse detection
+Temporal burst detection
+Union-Find based fraud network clustering
+Fraud network visualization
+Explainable risk reasons
+Dashboard with suspicious activity overview
+Dark / light mode
+
+🔗 **Live Demo**:
+https://scamnet-vert.vercel.app/
+
+🔗 **Repository:**
+https://github.com/oshin-30/ScamNet
 
 ### Blog Application
 
