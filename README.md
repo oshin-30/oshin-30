@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Project
 
-### ScamNet — Network-Level Fraud Detection
+### 1. ScamNet — Network-Level Fraud Detection
 
 A fraud detection platform for online marketplaces and job postings that identifies suspicious activity by analyzing relationships between listings.
 
@@ -44,7 +44,7 @@ https://scamnet-vert.vercel.app/
 🔗 **Repository:**
 https://github.com/oshin-30/ScamNet
 
-### Blog Application
+### 2. Blog Application
 
 A RESTful blogging platform built with Spring Boot featuring secure authentication, role-based authorization, and CRUD operations.
 
