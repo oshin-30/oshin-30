@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Oshin
 
-### Full Stack Developer | Java | Spring Boot | React | AWS
+### Full Stack Developer | Java | Spring Boot | React | MySQL
 
 *Powered by coffee. Built with APIs.*
 
