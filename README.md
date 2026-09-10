@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Project
 
-### 1. ScamNet - Network-Level Fraud Detection
+### 1. ScamNet: Network-Level Fraud Detection
 
 A fraud detection platform for online marketplaces and job postings that identifies suspicious activity by analyzing relationships between listings.
 
